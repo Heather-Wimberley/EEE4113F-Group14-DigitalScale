@@ -1,4 +1,4 @@
-#Casing Notes
+# Casing Notes
 
 The casing for this scale was developed by taking an etch of the bottom of the scale and then creating an appropriately sized case in AutoCad.
 
